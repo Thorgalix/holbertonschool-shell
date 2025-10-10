@@ -7,3 +7,4 @@ ls -aln
 mkdir /tmp/my_first_directory
 Move Betty
 rm betty
+rm -r my_first_directory
