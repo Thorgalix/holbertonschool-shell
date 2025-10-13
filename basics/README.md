@@ -14,3 +14,4 @@ File type
 Symbolic link - ln to /bin/ls
 Copy html
 mv uppercase
+rm *~
