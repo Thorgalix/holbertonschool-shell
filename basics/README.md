@@ -9,3 +9,4 @@ Move Betty
 rm betty
 rm -r my_first_directory
 cd previous
+ls multi directory
