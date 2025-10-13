@@ -10,3 +10,4 @@ chmod 007 hello
 chmod 753 hello
 chmod --reference=olleh hello
 chmod -R a+X ./
+mkdir -m 751 my_dir
