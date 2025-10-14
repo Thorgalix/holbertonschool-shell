@@ -3,3 +3,4 @@ echo "\"(Ôo)'"
 car /etc/passwd
 cat passwd hosts
 tail /etc/passwd
+head /etc/passwd
