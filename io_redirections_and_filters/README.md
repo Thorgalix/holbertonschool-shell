@@ -19,3 +19,4 @@ grep -v "bin" /etc/passwd
 grep "^[a-zA-Z]" /etc/ssh/sshd_config
 tr 'aAcC' 'zZeE' > 19-AZ
 tr -d 'Cc'
+rev
