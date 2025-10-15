@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'aAcC' 'zZeE' > 19-AZ
+tr 'aAcC' 'zZeE'
