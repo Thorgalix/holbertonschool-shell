@@ -10,3 +10,4 @@ ls -la > ls_cwd_content
 tail cmd
 rm -r *.js
 find . -type d | grep -v "^[.]$" | wc -l
+ls -lt | head
