@@ -12,3 +12,4 @@ rm -r *.js
 find . -type d | grep -v "^[.]$" | wc -l
 ls -lt | head -10
 sort | uniq -u
+grep "root" /etc/passwd
