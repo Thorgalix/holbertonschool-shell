@@ -10,6 +10,6 @@ echo $(($TRUEKNOWLEDGE+128))
 echo $(($POWER/$DIVIDE))
 echo $(($BREATH**$LOVE))
 echo $((2#$BINARY))
-
+printf "%s\n" {a..z}{a..z} | grep -v oo
 
 printf '%x\n' "$DECIMAL"
