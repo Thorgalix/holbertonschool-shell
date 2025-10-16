@@ -11,3 +11,5 @@ echo $(($POWER/$DIVIDE))
 echo $(($BREATH**$LOVE))
 echo $((2#$BINARY))
 
+
+printf '%x\n' "$DECIMAL"
