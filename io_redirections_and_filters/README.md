@@ -22,3 +22,4 @@ tr -d 'Cc'
 rev
 cut -d':' -f 1,6 /etc/passwd | sort
 find . -empty -printf "%f\n"
+find . -type f -name "*.gif" -printf "%f\n" | rev | cut -d'.' -f2- | rev | sort -f
